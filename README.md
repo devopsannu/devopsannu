@@ -1,98 +1,81 @@
-Hi 👋, I'm Anupam Kumar
-🚀 DevOps Engineer | Azure Cloud | CI/CD | Kubernetes | Terraform
-
-I'm a DevOps Engineer passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, and GitOps.
-
-I enjoy building reliable deployment pipelines, automating infrastructure, and working with modern cloud-native technologies.
-
-☁️ About Me
-
-☁️ Working with Microsoft Azure
-
-🔄 Building CI/CD pipelines with Azure Pipelines
-
-🐙 Version control and collaboration using Git & GitHub
-
-🏗️ Infrastructure as Code with Terraform
-
-🐳 Containerization using Docker
-
-☸️ Container orchestration with Kubernetes
-
-🚀 GitOps & continuous delivery with Argo CD
-
-💻 Automation and scripting with PowerShell
-
-📚 Continuously learning and exploring modern DevOps practices
-
+<h1 align="center">Hi 👋, I'm Anupam Kumar</h1> <h3 align="center">🚀 DevOps Engineer | Azure Cloud | CI/CD | Kubernetes | Terraform</h3> <p align="center"> <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> </p> <table> <tr> <td width="65%"> <ul> <li>☁️ Working with <strong>Microsoft Azure, GitHub & Azure Pipelines</strong></li> <li>🏗️ Infrastructure as Code using <strong>Terraform</strong></li> <li>🐳 Containerization using <strong>Docker</strong></li> <li>☸️ Container orchestration with <strong>Kubernetes</strong></li> <li>🚀 GitOps & continuous delivery using <strong>Argo CD</strong></li> <li>💻 Automation and scripting with <strong>PowerShell</strong></li> <li>🔄 Interested in <strong>CI/CD, Cloud Automation & DevOps</strong></li> <li>📚 Continuously learning and exploring modern <strong>Cloud & DevOps technologies</strong></li> <li>📫 Reach me at: <strong>devopsannu@gmail.com</strong></li> </ul> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/animation/gopher.gif" width="300px" alt="DevOps Animation"/> </td> </tr> </table>
+🌐 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/anupam-kumar-03053964" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="35"/> </a> <a href="mailto:devopsannu@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="35"/> </a> <a href="https://github.com/devopsannu" target="_blank"> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" height="35"/> </a> </p>
 🛠️ Skills & Tools
-<p align="center"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
-🔧 DevOps Expertise
-☁️ Azure Cloud
-       │
-       ▼
-🏗️ Terraform ───────► Infrastructure as Code
-       │
-       ▼
-🐳 Docker
-       │
-       ▼
-☸️ Kubernetes
-       │
-       ▼
-🔄 Azure Pipelines
-       │
-       ▼
-🚀 Argo CD
-       │
-       ▼
-📦 GitOps / Continuous Delivery
-
-🚀 What I Work With
-Area	Technologies
-☁️ Cloud	Microsoft Azure
-🔄 CI/CD	Azure Pipelines
-🐙 Version Control	Git, GitHub
-🏗️ IaC	Terraform
-🐳 Containers	Docker
-☸️ Orchestration	Kubernetes
-🚀 GitOps	Argo CD
-💻 Automation	PowerShell
-📚 Learning & Certifications
-
-🎓 DevOps & Cloud Learning — Udemy
-
-Currently focusing on strengthening practical skills in:
-
-Azure Cloud
-
-Terraform & Infrastructure as Code
-
-Kubernetes
-
-Docker
-
-CI/CD Automation
-
-GitOps with Argo CD
-
-PowerShell Automation
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devopsannu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsannu&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsannu&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/devopsannu"> <img src="https://img.shields.io/badge/GitHub-devopsannu-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/anupam-kumar-03053964"> <img src="https://img.shields.io/badge/LinkedIn-Anupam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:devopsannu@gmail.com"> <img src="https://img.shields.io/badge/Email-devopsannu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-🎯 DevOps Philosophy
-
-Automate everything you can, monitor what matters, and continuously improve. 🚀
-
-⚡ Fun Fact
-I don't just deploy applications...
-I automate the journey from Code → Cloud → Production 🚀
-
+☁️ Cloud & DevOps
+<p> <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure" height="35"/> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" height="35"/> <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="35"/> <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="35"/> <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" height="35"/> <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" height="35"/> <img src="https://img.icons8.com/color/48/powershell.png" alt="PowerShell" height="35"/> </p>
+🚀 CI/CD & GitOps
+<p> <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white"/> </p>
+⚙️ DevOps & Cloud Expertise
+<table> <tr> <th>Category</th> <th>Technologies</th> </tr> <tr> <td>☁️ Cloud</td> <td>Microsoft Azure</td> </tr> <tr> <td>🔄 CI/CD</td> <td>Azure Pipelines, GitHub</td> </tr> <tr> <td>🏗️ Infrastructure as Code</td> <td>Terraform</td> </tr> <tr> <td>🐳 Containers</td> <td>Docker</td> </tr> <tr> <td>☸️ Orchestration</td> <td>Kubernetes</td> </tr> <tr> <td>🚀 GitOps</td> <td>Argo CD</td> </tr> <tr> <td>💻 Automation</td> <td>PowerShell</td> </tr> </table>
+🔥 DevOps Workflow
 <p align="center">
-⭐ Thanks for visiting my profile!
 
-Let's build, automate & scale! 🚀
+<strong>Code</strong>
+  →  
+<strong>GitHub</strong>
+  →  
+<strong>Azure Pipelines</strong>
+  →  
+<strong>Docker</strong>
+  →  
+<strong>Kubernetes</strong>
+  →  
+<strong>Argo CD</strong>
+  →  
+<strong>Azure ☁️</strong>
 
 </p>
+📚 Certifications & Learning
+
+🎓 DevOps & Cloud Courses — Udemy
+
+Currently focusing on building and improving practical knowledge in:
+
+☁️ Azure Cloud
+
+🏗️ Terraform & Infrastructure as Code
+
+🐳 Docker
+
+☸️ Kubernetes
+
+🔄 CI/CD Pipelines
+
+🚀 GitOps with Argo CD
+
+💻 PowerShell Automation
+
+📊 GitHub Analytics
+<p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devopsannu&theme=github_dark" /> </p> <p align="center"> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devopsannu&theme=github_dark" /> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devopsannu&theme=github_dark" /> </p> <p align="center"> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devopsannu&theme=github_dark" /> </p>
+📈 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsannu&theme=github-dark-blue&hide_border=true" /> </p>
+🎯 Currently Exploring
+☁️ Azure Cloud
+      │
+      ├── Infrastructure as Code
+      │       └── Terraform
+      │
+      ├── Containerization
+      │       └── Docker
+      │
+      ├── Orchestration
+      │       └── Kubernetes
+      │
+      ├── CI/CD
+      │       └── Azure Pipelines
+      │
+      └── GitOps
+              └── Argo CD
+
+💡 DevOps Philosophy
+
+Automate. Deploy. Monitor. Improve. Repeat. 🚀
+
+I believe in reducing manual effort through automation, building reliable infrastructure, and continuously improving deployment processes.
+
+🎯 Fun Fact
+
+I don't just deploy applications — I automate the journey from Code → Cloud → Production. ☁️🚀
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devopsannu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> <p align="center"> ⭐ <strong>Thanks for visiting my profile!</strong> ⭐ </p> <p align="center"> <strong>Let's Build • Automate • Deploy • Scale 🚀</strong> </p>
